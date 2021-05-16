@@ -76,7 +76,7 @@ funk.BackgroundTransparency = 1.000
 funk.Position = UDim2.new(0.130952388, 0, 0.204946995, 0)
 funk.Size = UDim2.new(0, 139, 0, 34)
 funk.Font = Enum.Font.PermanentMarker
-funk.Text = "Funky Friday 🎤"
+funk.Text = "Funky Friday 🎤 (patched atm)"
 funk.TextColor3 = Color3.fromRGB(0, 0, 0)
 funk.TextSize = 14.000
 funk.MouseButton1Down:connect(function()
